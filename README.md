@@ -76,7 +76,3 @@ Please follow Flutter best practices and keep the codebase clean and well-docume
 This project is licensed under the MIT License.
 
 See the LICENSE.md file for details.
-
----
-
-Designed with ❤️ by Team Hubble
