@@ -1,6 +1,8 @@
 # 📱 Pathshala Mobile App – XR Learning Experience  
 
-**Team:** Team Hubble
+<div align="center">
+  <img src="assets/Pathlogo.png" alt="NYC Banner" width="800"/>
+</div>  
 
 ## 🌟 Vision  
 Pathshala aims to revolutionize education by providing immersive and accessible XR (Extended Reality) learning experiences for students from all backgrounds. Our mission is to bridge educational gaps by using innovative technology to deliver quality education everywhere.
